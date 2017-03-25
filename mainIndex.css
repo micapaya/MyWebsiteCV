@@ -1,0 +1,102 @@
+							@font-face {
+							  font-family: "Phenta";
+							  src: url("fonts/phantacon.ttf"); 
+								}
+
+
+body {
+	background-image: url(img/Background.png);
+	background-size: inherit;
+	height: 100%;
+
+}
+			#topTR {
+				position: absolute;
+				top: 0;
+				right:0;
+				max-width: 100%;
+				z-index: 1;
+				
+			}
+	.ico {
+		margin:1em;
+		position: relative;
+		z-index: 2;
+	}
+	.center_align {
+				text-align: center;
+				width: 100%;
+				position: relative;
+				z-index: 2;
+	}
+
+		#logoP {
+			margin: 30px;
+			margin-top: 8%;
+			max-width: 70%;
+		}
+
+	.menu_c {
+		text-align: center;
+		margin: 0.5em;
+	}
+
+span {
+	font-family: 'Phenta';
+	font-size: 2em;
+	
+}
+
+		#blue {
+			color: #00E0D1;
+			margin:2em;
+			text-decoration: none;
+			
+		}
+				#blue:hover {
+					color: #00E0D1;
+					margin:2em;
+					text-decoration: none;
+					opacity: 0.5;
+					
+				}
+
+		#orange {
+			color: #F7931E;
+			margin:2em;
+		}
+				#orange:hover {
+					color: #F7931E;
+					margin:2em;
+					text-decoration: none;
+					opacity: 0.5;
+					
+				}
+
+		#green {
+			color: #5AF421;
+			margin:2em;
+		}
+				#green:hover {
+					color: #5AF421;
+					margin:2em;
+					text-decoration: none;
+					opacity: 0.5;					
+				}
+
+#botTR {
+	position: absolute;
+	bottom: 0;
+	max-width: 100%;
+	z-index: 1;
+}
+
+#copyright {
+	position: absolute;
+	right:0;
+	bottom: 0;
+	margin:12px;
+	color:grey;
+	z-index: 3;
+	font-size: 0.7em;
+}
