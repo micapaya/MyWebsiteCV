@@ -626,7 +626,7 @@ NgA4AEAARQBLAE8AUwBVAFcAowCkAAA=")}
 			L326.674,86.072z"/>
 	</g>
 	
-		<line fill="none" stroke="#CCCCCC" stroke-width="2" stroke-miterlimit="10" x1="312.817" y1="328.716" x2="269.237" y2="217.862"/>
+		<line id="line23" fill="none" stroke="#CCCCCC" stroke-width="2" stroke-miterlimit="10" x1="312.817" y1="328.716" x2="269.237" y2="217.862"/>
 	<g>
 		<path fill="#FFFFFF" d="M269.248,227.818c-0.636,0-1.277-0.062-1.906-0.184c-2.61-0.505-4.868-1.996-6.356-4.199
 			c-1.489-2.203-2.03-4.854-1.524-7.466c0.905-4.673,5.012-8.065,9.764-8.065c0.635,0,1.275,0.062,1.903,0.183
